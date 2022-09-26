@@ -1,4 +1,4 @@
-// cs351_assignment3_Ali_Tahami.cpp : Synchronization.
+// Synchronization.
 // Copyright (c) Ali Tahami 03/09/2022
 //
 
